@@ -31,5 +31,5 @@ def bracket_matcher(text):
     return 1 if len(is_match) == 0 else 0
 
 
-print(bracket_matcher("testing("))
-print(bracket_matcher("() testing"))
+user_input = input("Please enter a string: ")
+print(bracket_matcher(user_input))
