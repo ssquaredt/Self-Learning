@@ -2,11 +2,11 @@
 freeCodeCamp Daily Coding Challenge (25.11.2026)
 
 Question: FizzBuzz
-Given an integer (n), return an array of integers from 1 to n (inclusive), replacing numbers that are multiple of:
-
-3 with "Fizz".
-5 with "Buzz".
-3 and 5 with "FizzBuzz".
+- Given an integer (n), return an array of integers from 1 to n (inclusive),
+  replacing numbers that are multiple of:
+  1) 3 with "Fizz".
+  2) 5 with "Buzz".
+  3) 3 and 5 with "FizzBuzz".
 """
 
 
